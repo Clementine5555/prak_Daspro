@@ -1,0 +1,18 @@
+Panji Depari|241402034|Teknologi Informasi|deparipanji@gmail.com|087869164526
+Budiono Siregar|241402043|Teknologi Informasi|budi@ono.sir|081234567890
+Hansen Hartono|241401123|Ilmu Komputer|wanjay@wow.com|081234567980
+Joko Santoso|241402044|Teknologi Informasi|joko.santoso@email.com|081234567890
+Sri Rahayu|241401124|Ilmu Komputer|sri.rahayu@mail.com|082345678901
+Muhammad Bahari|241402035|Teknologi Informasi|mbahari@email.net|083456789012
+Eka Dewi|241401125|Ilmu Komputer|eka.dewi@webmail.com|084567890123
+Wibowo Saputra|241402036|Teknologi Informasi|wibowo.s@mail.net|085678901234
+Siti Chen|241401126|Ilmu Komputer|schen@email.org|086789012345
+Jaya Wijaya|241402037|Teknologi Informasi|jwijaya@mail.com|087890123456
+Olivia Sari|241401127|Ilmu Komputer|osari@email.net|088901234567
+Lukman Hakim|241402038|Teknologi Informasi|lhakim@mail.org|089012345678
+Indah Kusuma|241401128|Ilmu Komputer|ikusuma@email.com|081123456789
+Eko Tanjung|241402039|Teknologi Informasi|etanjung@mail.net|082234567890
+Ayu Martini|241401129|Ilmu Komputer|amartini@email.org|083345678901
+Nugroho Adi|241402040|Teknologi Informasi|nadi@mail.com|084456789012
+Maya Pancamurti|241401130|Ilmu Komputer|mtrimurti@email.net|085567890123
+Sutanto|241402037|Teknologi Informasi|susut@gmail.com|081234567890
